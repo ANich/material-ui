@@ -38,3 +38,9 @@ Icon buttons are commonly found in app bars and toolbars.
 Icons are also appropriate for toggle buttons that allow a single choice to be selected or deselected, such as adding or removing a star to an item.
 
 {{demo='buttons/IconButtons.js'}}
+
+## Toggle Buttons 
+
+Toggle Buttons are used to select between related options. 
+
+{{demo='buttons/ToggleButton.js'}}
